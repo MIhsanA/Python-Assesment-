@@ -1,2 +1,2 @@
-# Python-Assesment-
-Python Assenment 
+# Python-Assessment-
+Python Assessment 
