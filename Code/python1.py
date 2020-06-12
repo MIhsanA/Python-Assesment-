@@ -75,6 +75,8 @@ def two(input):
 	result = input[W_two:w_3]
 	return result
 
+my = "bertclivebert"
+print(two(my))
 
 
 	# <QUESTION 3>
@@ -207,7 +209,7 @@ def five(input):
 
 def six(input):
 	
-
+	return 0
 	# <QUESTION 7>
 
     # Write a function which returns the integer number of vowels in a given string. 
